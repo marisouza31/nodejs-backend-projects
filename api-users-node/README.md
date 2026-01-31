@@ -72,4 +72,6 @@ npm run dev
 ```bash
 http://localhost:3333
 ```
-
+## 🧪 Ferramentas para teste da API:
+- Postman
+- Insomnia
