@@ -62,7 +62,7 @@ Ele é uma continuação natural do primeiro projeto, trazendo um **nível a mai
 
 ---
 
-## ▶️ Como Rodar o Projeto
+## Como Rodar o Projeto:
 
 ### Clone o repositório
 ```bash
