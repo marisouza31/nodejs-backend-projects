@@ -50,11 +50,11 @@ Este projeto foi desenvolvido com o objetivo de **praticar Node.js** e entender,
 
 ### Clone o repositório
 ```bash
-git clone https://github.com/marisouza31/node-projects.git
+git clone https://github.com/marisouza31/nodejs-backend-projects.git
 ```
 ### Acesse a pasta do projeto
 ```bash
-cd node-projects/api-users-node
+cd nodejs-backend-projects/api-users-node
 ```
 ### Instale as dependências
 ```bash
